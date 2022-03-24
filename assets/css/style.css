@@ -1,6 +1,6 @@
 /*!------------------------------------------------------------------
 [MAIN STYLESHEET]
-PROJECT: Project Name
+PROJECT: sdminev.com
 VERSION: Versoin Number
 -------------------------------------------------------------------*/
 @import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700";
@@ -11,7 +11,7 @@ VERSION: Versoin Number
   font-style: normal;
   font-display: swap
 }
-
+.testis{display:none;}
 body {
   line-height: 1.2;
   font-family: roboto, sans-serif;
